@@ -1,4 +1,4 @@
-# Olympics-Data-Mining-Project
+# Olympics: Data Mining Project
 Analysis of the Olympic History, as part of an assignment for module "Business Intelligence and Big Data Anaytics"
 
 ## DATA (from Kaggle & Github):
