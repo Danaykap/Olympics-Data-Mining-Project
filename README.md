@@ -24,3 +24,10 @@ Based on this dataset we created Areas.csv which contains all countries, their c
 * Data Cube
 * Descriptive Statistics and insights (Graphs)
 * Data Mining (Clustering & Association Rules)
+
+## What there is into this repository?
+* Datasets we used.
+* SQL to clean, transform and prepare for the creation of a cube.
+* Association Rules: RapidMiner process.
+* Some pictures with charts/statistics from the data (results of Analysis).
+* A report with detailed steps for all parts of the assignment.
