@@ -14,6 +14,10 @@ Containing longitude and latitude for countries among other information. Used fo
 
 Containing information about cities that hosted Olympics in the past.
 
+* https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
+
+Based on this dataset we created Areas.csv which contains all countries, their continent and sub-region, that have participated in Olympics, existing or former.
+
 ## What we did?
 * Data Cleansing
 * Data Transformation
